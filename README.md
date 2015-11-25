@@ -1,2 +1,2 @@
 # OOP
-OOP course at Softuni
+OOP course
